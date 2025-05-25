@@ -1,0 +1,166 @@
+,Year,Subject,Country,Score,Rank
+7,2006,Maths,Brazil,370.0,50.0
+10,2006,Maths,Canada,527.0,7.0
+25,2006,Maths,Germany,504.0,19.0
+34,2006,Maths,Japan,523.0,9.0
+35,2006,Maths,Jordan,384.0,48.0
+37,2006,Maths,South Korea,547.0,4.0
+44,2006,Maths,Malaysia,,
+53,2006,Maths,Poland,495.0,24.0
+62,2006,Maths,Sweden,502.0,20.0
+67,2006,Maths,Turkey,424.0,40.0
+69,2006,Maths,United Kingdom,495.0,23.0
+80,2009,Maths,Brazil,386.0,51.0
+83,2009,Maths,Canada,527.0,8.0
+98,2009,Maths,Germany,513.0,14.0
+107,2009,Maths,Japan,529.0,7.0
+108,2009,Maths,Jordan,387.0,50.0
+110,2009,Maths,South Korea,546.0,3.0
+117,2009,Maths,Malaysia,,
+126,2009,Maths,Poland,495.0,23.0
+135,2009,Maths,Sweden,494.0,24.0
+140,2009,Maths,Turkey,445.0,40.0
+142,2009,Maths,United Kingdom,492.0,26.0
+153,2012,Maths,Brazil,389.0,55.0
+156,2012,Maths,Canada,518.0,11.0
+171,2012,Maths,Germany,514.0,14.0
+180,2012,Maths,Japan,536.0,6.0
+181,2012,Maths,Jordan,386.0,57.0
+183,2012,Maths,South Korea,554.0,4.0
+190,2012,Maths,Malaysia,421.0,48.0
+199,2012,Maths,Poland,518.0,12.0
+208,2012,Maths,Sweden,478.0,36.0
+213,2012,Maths,Turkey,448.0,41.0
+215,2012,Maths,United Kingdom,494.0,24.0
+226,2015,Maths,Brazil,377.0,68.0
+229,2015,Maths,Canada,516.0,10.0
+244,2015,Maths,Germany,506.0,16.0
+253,2015,Maths,Japan,532.0,5.0
+254,2015,Maths,Jordan,380.0,67.0
+256,2015,Maths,South Korea,524.0,7.0
+263,2015,Maths,Malaysia,446.0,45.0
+272,2015,Maths,Poland,504.0,17.0
+281,2015,Maths,Sweden,494.0,24.0
+286,2015,Maths,Turkey,420.0,51.0
+288,2015,Maths,United Kingdom,492.0,27.0
+299,2006,Science,Brazil,390.0,49.0
+302,2006,Science,Canada,534.0,3.0
+317,2006,Science,Germany,516.0,12.0
+326,2006,Science,Japan,531.0,6.0
+327,2006,Science,Jordan,422.0,43.0
+329,2006,Science,South Korea,522.0,10.0
+336,2006,Science,Malaysia,,
+345,2006,Science,Poland,498.0,22.0
+354,2006,Science,Sweden,503.0,21.0
+359,2006,Science,Turkey,424.0,42.0
+361,2006,Science,United Kingdom,515.0,13.0
+372,2009,Science,Brazil,405.0,49.0
+375,2009,Science,Canada,529.0,7.0
+390,2009,Science,Germany,520.0,12.0
+399,2009,Science,Japan,539.0,4.0
+400,2009,Science,Jordan,415.0,47.0
+402,2009,Science,South Korea,538.0,5.0
+409,2009,Science,Malaysia,,
+418,2009,Science,Poland,508.0,17.0
+427,2009,Science,Sweden,495.0,27.0
+432,2009,Science,Turkey,454.0,40.0
+434,2009,Science,United Kingdom,514.0,14.0
+445,2012,Science,Brazil,402.0,55.0
+448,2012,Science,Canada,525.0,9.0
+463,2012,Science,Germany,524.0,10.0
+472,2012,Science,Japan,547.0,3.0
+473,2012,Science,Jordan,409.0,54.0
+475,2012,Science,South Korea,538.0,6.0
+482,2012,Science,Malaysia,420.0,50.0
+491,2012,Science,Poland,526.0,8.0
+500,2012,Science,Sweden,485.0,36.0
+505,2012,Science,Turkey,463.0,41.0
+507,2012,Science,United Kingdom,514.0,19.0
+518,2015,Science,Brazil,401.0,66.0
+521,2015,Science,Canada,528.0,7.0
+536,2015,Science,Germany,509.0,16.0
+545,2015,Science,Japan,538.0,2.0
+546,2015,Science,Jordan,409.0,64.0
+548,2015,Science,South Korea,516.0,11.0
+555,2015,Science,Malaysia,443.0,47.0
+564,2015,Science,Poland,501.0,22.0
+573,2015,Science,Sweden,493.0,28.0
+578,2015,Science,Turkey,425.0,55.0
+580,2015,Science,United Kingdom,509.0,15.0
+591,2006,Reading,Brazil,393.0,47.0
+594,2006,Reading,Canada,527.0,4.0
+609,2006,Reading,Germany,495.0,17.0
+618,2006,Reading,Japan,498.0,14.0
+619,2006,Reading,Jordan,401.0,44.0
+621,2006,Reading,South Korea,556.0,1.0
+628,2006,Reading,Malaysia,,
+637,2006,Reading,Poland,508.0,8.0
+646,2006,Reading,Sweden,507.0,9.0
+651,2006,Reading,Turkey,447.0,36.0
+653,2006,Reading,United Kingdom,495.0,16.0
+664,2009,Reading,Brazil,412.0,49.0
+667,2009,Reading,Canada,524.0,5.0
+682,2009,Reading,Germany,497.0,18.0
+691,2009,Reading,Japan,520.0,7.0
+692,2009,Reading,Jordan,405.0,51.0
+694,2009,Reading,South Korea,539.0,1.0
+701,2009,Reading,Malaysia,,
+710,2009,Reading,Poland,500.0,14.0
+719,2009,Reading,Sweden,497.0,17.0
+724,2009,Reading,Turkey,464.0,39.0
+726,2009,Reading,United Kingdom,494.0,23.0
+737,2012,Reading,Brazil,407.0,52.0
+740,2012,Reading,Canada,523.0,7.0
+755,2012,Reading,Germany,508.0,18.0
+764,2012,Reading,Japan,538.0,3.0
+765,2012,Reading,Jordan,399.0,55.0
+767,2012,Reading,South Korea,536.0,4.0
+774,2012,Reading,Malaysia,398.0,56.0
+783,2012,Reading,Poland,518.0,9.0
+792,2012,Reading,Sweden,483.0,34.0
+797,2012,Reading,Turkey,475.0,39.0
+799,2012,Reading,United Kingdom,499.0,21.0
+810,2015,Reading,Brazil,407.0,62.0
+813,2015,Reading,Canada,527.0,3.0
+828,2015,Reading,Germany,509.0,11.0
+837,2015,Reading,Japan,516.0,8.0
+838,2015,Reading,Jordan,408.0,61.0
+840,2015,Reading,South Korea,517.0,7.0
+847,2015,Reading,Malaysia,431.0,50.0
+856,2015,Reading,Poland,506.0,13.0
+865,2015,Reading,Sweden,500.0,17.0
+870,2015,Reading,Turkey,428.0,51.0
+872,2015,Reading,United Kingdom,498.0,22.0
+881,2018,Maths,Japan,527.0,6.0
+882,2018,Maths,South Korea,526.0,7.0
+885,2018,Maths,Poland,516.0,10.0
+887,2018,Maths,Canada,512.0,12.0
+892,2018,Maths,Sweden,502.0,17.0
+893,2018,Maths,United Kingdom,502.0,17.0
+895,2018,Maths,Germany,500.0,20.0
+918,2018,Maths,Turkey,454.0,43.0
+923,2018,Maths,Malaysia,440.0,48.0
+940,2018,Maths,Jordan,400.0,65.0
+946,2018,Maths,Brazil,384.0,71.0
+960,2018,Science,Japan,529.0,6.0
+962,2018,Science,South Korea,519.0,8.0
+963,2018,Science,Canada,518.0,9.0
+966,2018,Science,Poland,511.0,12.0
+969,2018,Science,United Kingdom,505.0,15.0
+971,2018,Science,Germany,503.0,16.0
+975,2018,Science,Sweden,499.0,20.0
+995,2018,Science,Turkey,468.0,40.0
+1003,2018,Science,Malaysia,438.0,49.0
+1006,2018,Science,Jordan,429.0,52.0
+1020,2018,Science,Brazil,404.0,65.0
+1039,2018,Reading,Canada,520.0,6.0
+1042,2018,Reading,South Korea,514.0,9.0
+1043,2018,Reading,Poland,512.0,10.0
+1045,2018,Reading,Sweden,506.0,11.0
+1048,2018,Reading,Japan,504.0,15.0
+1049,2018,Reading,United Kingdom,504.0,15.0
+1054,2018,Reading,Germany,498.0,21.0
+1073,2018,Reading,Turkey,466.0,40.0
+1089,2018,Reading,Jordan,419.0,56.0
+1090,2018,Reading,Malaysia,415.0,57.0
+1091,2018,Reading,Brazil,413.0,58.0
