@@ -18,7 +18,7 @@ for year in years:
         if year == 2018:
             filtered = (df["Country"] == country) & (df["Year"] == 2017)
         else:
-            filtered = (df["Country"] == country) & (df["Year"] == 2017)
+            filtered = (df["Country"] == country) & (df["Year"] == year)
             
         result.append({
         "Country" : country,
