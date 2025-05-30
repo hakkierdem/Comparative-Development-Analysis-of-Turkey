@@ -15,7 +15,7 @@ for country in countries:
     plt.plot(data["Year"], data["Score"], label=country,
              color=color_map[country], linewidth=2, marker='o')
 
-plt.title("Overall Education Score Over Time by Country", fontsize=15)
+plt.title("Overall Score Over Time by Country", fontsize=15)
 plt.xlabel("Year", fontsize=12)
 plt.ylabel("Education Score (0-100)", fontsize=12)
 plt.xticks([2005, 2010, 2015, 2020, 2025])
