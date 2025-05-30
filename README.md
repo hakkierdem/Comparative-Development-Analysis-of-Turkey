@@ -1,6 +1,6 @@
 # 🌍 Türkiye ve 10 Farklı Ülkenin Karşılaştırmalı Analizi (2005-2025) [TR]
 
-![Türkiye](Türkiye_img.jpeg)
+![Türkiye](Turkey_img.jpeg)
 
 Bu proje, 2005-2025 yılları arasında **11 ülkenin** (Turkey, Germany, Japan, Brazil, Poland, United Kingdom, Canada, Jordan, Sweden, South Korea, Malaysia) çeşitli alanlardaki gelişim skorlarını incelemeyi amaçlar. 
 
